@@ -2,14 +2,14 @@ openapi: 3.0.1
 info:
   title: Blckswan Security
   description: Hardended security-API with features from the  Blckswan-2.0 specification
-  termsOfService: http://ungtb10d.io/terms/
+  termsOfService: http://ungtb10d.github.io/terms
   contact:
     name: BLCKSWAN
   license:
     name: MIT
   version: 3.0.0
 servers:
-- url: http://ungtb10d.io/blckswan/
+- url: http://ungtb10d.github.io/blckswan/
 paths:
   /locs:
     get:
